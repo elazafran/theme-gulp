@@ -1,0 +1,21 @@
+{
+  "name": "tema-gulp",
+  "version": "1.0.0",
+  "description": "tema usado para automatizas con Gulp",
+  "dependencies": {
+    "gulp-watch": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sass gulp wordpress"
+  },
+  "keywords": [
+    "Javier",
+    "Aliaga"
+  ],
+  "author": "",
+  "license": "ISC"
+}
