@@ -1,0 +1,3 @@
+function getText(){
+    return "hola";
+}
